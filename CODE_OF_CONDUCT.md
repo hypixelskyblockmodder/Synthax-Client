@@ -4,4 +4,4 @@ We are committed to fostering a welcoming and inclusive environment. All partici
 
 - Be respectful and considerate.
 - Avoid discriminatory or harassing behavior.
-- Report any misconduct to [email@example.com].
+- Report any misconduct to staff.
