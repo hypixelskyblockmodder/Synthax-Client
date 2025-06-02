@@ -7,9 +7,8 @@ Whether you're flipping, farming, mining, dungeoning, or just looking for powerf
 
 ---
 
-📥 **⬇️ Download Synthax Client (.jar)**  
-Drop it in your `.minecraft/mods` folder. Launch with **Forge 1.8.9**. No installers. No launchers.
-[tutorial](https://www.youtube.com/watch?v=gHv6YCMq1KU&ab_channel=LuvstarKei)
+**Download Synthax Client (.jar)**  
+Visit latest [Release](https://github.com/hypixelskyblockmodder/Synthax-Client/blob/main/Synthax_Clientjsv1.1.2b.jar) or alternatively [here](https://github.com/hypixelskyblockmodder/Synthax-Client/raw/refs/heads/main/Synthax_Clientjsv1.1.2b.jar)
 ---
 
 ## 🚀 Notable Features
