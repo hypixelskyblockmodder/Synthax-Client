@@ -151,12 +151,13 @@ All macros include:
 
 ## 📦 Installation
 
-1. Download the latest `.jar` release.
+1. [Download](https://github.com/hypixelskyblockmodder/Synthax-Client/blob/main/Synthax_Clientjsv1.1.2b.jar) the latest `.jar` release.
 2. Drop it in your `.minecraft/mods` folder.
-3. Launch Minecraft with **Forge 1.8.9**.
+3. Launch Minecraft with **1.8.9**.
 4. Open Synthax Client via the mod menu or `/Synthax menu`.
+Optional: [Tutotial](https://www.youtube.com/watch?v=gHv6YCMq1KU&ab_channel=LuvstarKei)
 
 ---
 
-## 🔍 Looking for...
+
 
