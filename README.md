@@ -1,4 +1,4 @@
-# 🍕 Synthax Client – Hypixel Skyblock QoL Mod (Forge 1.8.9)
+# Synthax Client – Hypixel Skyblock Macro Mod (1.8.9)
 
 **Synthax Client** is a free, open-source Forge 1.8.9 mod for Hypixel Skyblock focused on stealthy automation, ESPs, and fake-rotation-based macros.  
 It’s built for performance, utility, and **safe grinding**, with **built-in failsafes** on every major macro and dungeon module.
@@ -9,7 +9,7 @@ Whether you're flipping, farming, mining, dungeoning, or just looking for powerf
 
 📥 **⬇️ Download Synthax Client (.jar)**  
 Drop it in your `.minecraft/mods` folder. Launch with **Forge 1.8.9**. No installers. No launchers.
-
+[tutorial](https://www.youtube.com/watch?v=gHv6YCMq1KU&ab_channel=LuvstarKei)
 ---
 
 ## 🚀 Notable Features
@@ -137,7 +137,7 @@ All macros include:
 
 
 **Help:**
-- /Synthax help <command> <page>
+- `/Synthax help <command> <page>`
 
 ---
 
