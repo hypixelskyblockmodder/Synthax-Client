@@ -11,6 +11,7 @@ Whether you're flipping, farming, mining, dungeoning, or just looking for powerf
 Visit latest [Release](https://github.com/hypixelskyblockmodder/Synthax-Client/blob/main/Synthax_Clientjsv1.1.2b.jar) or alternatively [here](https://github.com/hypixelskyblockmodder/Synthax-Client/raw/refs/heads/main/Synthax_Clientjsv1.1.2b.jar)
 ---
 
+
 ## 🚀 Notable Features
 
 All nukers and auras use **fake rotation packets** to mimic natural head movement and reduce detection risk.
