@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+license="MIT"
+[[mods]]
+modId="splauctionflipper"
+version="0.0.1"
+displayName="SPL Auction Flipper"
+description='''
+A mod to help Hypixel Skyblock players find underpriced Auction House items for flipping.
+'''
+authors="SPL Dev Team"
