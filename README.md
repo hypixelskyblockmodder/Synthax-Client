@@ -155,7 +155,7 @@ All macros include:
 2. Drop it in your `.minecraft/mods` folder.
 3. Launch Minecraft with **1.8.9**.
 4. Open Synthax Client via the mod menu or `/Synthax menu`.
-Optional: [Tutotial](https://www.youtube.com/watch?v=gHv6YCMq1KU&ab_channel=LuvstarKei)
+5. Optional: [Tutotial](https://www.youtube.com/watch?v=gHv6YCMq1KU&ab_channel=LuvstarKei)
 
 ---
 
