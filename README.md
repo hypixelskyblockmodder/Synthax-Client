@@ -129,37 +129,24 @@ All macros include:
 - `/Synthax failsafe enable`
 - `/Synthax failsafe debug`
 - `/Synthax failsafe log`
-- `/Synthax panic` – disables everything instantly
+- `/Synthax panicKeyBind` – set keybind to hide client
 
 ---
 
 ## ⚙️ Extra QoL Tools + ESP
 
-- 🧪 Auto Enchanting / Combine / Salvage
-- 🏹 Left-click Valkyrie = Shoot Terminator
-- 💎 Gemstone ESP + Powder Chest Solver
-- 👻 Golden Goblin Hider + Alert
-- 🧭 Commission ESP Overlay
-- 👕 Auto Wardrobe Switcher
-- 🧷 Item Keybinds
-- 🛡️ Anti SessionID Stealer (blocks getToken/sessionID)
 
-**Useful Commands:**
-- `/Synthax enchant auto`
-- `/Synthax combine salvage`
-- `/Synthax bind terminator slot1`
-- `/Synthax esp goblin`
-- `/Synthax wardrobe hotbar 3`
-- `/Synthax security sessionguard enable`
+**Help:**
+- /Synthax help <command> <page>
 
 ---
 
-## 🔮 Upcoming Additions
+## 🔮 Experimental
 
 - 🎣 Auto Fishing Macro (w/ smart anti-AFK)
 - 🧠 Full Pathfinding Engine (auto routing & navigation)
 - 🧼 Dungeon Room Autosolver System
-- 🎯 Legit KillAura for Zealots/Mobs
+- 🎯 Auction Sniper
 
 ---
 
